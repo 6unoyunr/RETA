@@ -1,2 +1,2 @@
-# DGA-FR
-Delta-Guided Adversarial Face Retouching
+# CLARA
+Clear face Retouching via Adversarial delta($\Delta$) learning
